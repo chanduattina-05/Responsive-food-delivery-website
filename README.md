@@ -10,8 +10,8 @@ This is a simple static website built using HTML, CSS, and Bootstrap.
 
 ## Files
 
-- **index.html**: The main HTML file containing the structure of the website.
-- **styles.css**: Custom CSS for styling the website.
+- **foodmunch.html**: The main HTML file containing the structure of the website.
+- **foodmunch.css**: Custom CSS for styling the website.
 
 ## How to View
 
