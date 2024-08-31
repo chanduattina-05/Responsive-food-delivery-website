@@ -15,7 +15,7 @@ This is a simple static website built using HTML, CSS, and Bootstrap.
 
 ## How to View
 
-To view the website, simply open the `index.html` file in your browser.
+To view the website, simply open the `foodmunch.html` file in your browser.
 
 ## Usage
 
